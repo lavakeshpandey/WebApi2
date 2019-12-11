@@ -1,0 +1,5 @@
+D:\APersonal\WebAPI2\Chapter4\WebApi2Book\src\WebApi2Book.Data\bin\Debug\WebApi2Book.Data.dll
+D:\APersonal\WebAPI2\Chapter4\WebApi2Book\src\WebApi2Book.Data\bin\Debug\WebApi2Book.Data.pdb
+D:\APersonal\WebAPI2\Chapter4\WebApi2Book\src\WebApi2Book.Data\obj\Debug\WebApi2Book.Data.csprojAssemblyReference.cache
+D:\APersonal\WebAPI2\Chapter4\WebApi2Book\src\WebApi2Book.Data\obj\Debug\WebApi2Book.Data.dll
+D:\APersonal\WebAPI2\Chapter4\WebApi2Book\src\WebApi2Book.Data\obj\Debug\WebApi2Book.Data.pdb

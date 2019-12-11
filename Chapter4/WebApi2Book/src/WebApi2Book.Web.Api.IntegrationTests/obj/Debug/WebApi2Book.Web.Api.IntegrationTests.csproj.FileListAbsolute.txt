@@ -1,0 +1,4 @@
+D:\APersonal\WebAPI2\Chapter4\WebApi2Book\src\WebApi2Book.Web.Api.IntegrationTests\bin\Debug\WebApi2Book.Web.Api.IntegrationTests.dll
+D:\APersonal\WebAPI2\Chapter4\WebApi2Book\src\WebApi2Book.Web.Api.IntegrationTests\bin\Debug\WebApi2Book.Web.Api.IntegrationTests.pdb
+D:\APersonal\WebAPI2\Chapter4\WebApi2Book\src\WebApi2Book.Web.Api.IntegrationTests\obj\Debug\WebApi2Book.Web.Api.IntegrationTests.dll
+D:\APersonal\WebAPI2\Chapter4\WebApi2Book\src\WebApi2Book.Web.Api.IntegrationTests\obj\Debug\WebApi2Book.Web.Api.IntegrationTests.pdb

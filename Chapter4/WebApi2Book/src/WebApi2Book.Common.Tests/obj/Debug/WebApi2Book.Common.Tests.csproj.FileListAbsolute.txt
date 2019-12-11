@@ -1,0 +1,4 @@
+D:\APersonal\WebAPI2\Chapter4\WebApi2Book\src\WebApi2Book.Common.Tests\bin\Debug\WebApi2Book.Common.Tests.dll
+D:\APersonal\WebAPI2\Chapter4\WebApi2Book\src\WebApi2Book.Common.Tests\bin\Debug\WebApi2Book.Common.Tests.pdb
+D:\APersonal\WebAPI2\Chapter4\WebApi2Book\src\WebApi2Book.Common.Tests\obj\Debug\WebApi2Book.Common.Tests.dll
+D:\APersonal\WebAPI2\Chapter4\WebApi2Book\src\WebApi2Book.Common.Tests\obj\Debug\WebApi2Book.Common.Tests.pdb

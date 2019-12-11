@@ -1,0 +1,13 @@
+12/6/2019 12:31:12 PM	This log contains information about the import operation of the script 'CheckExistingFirmware.sql' into project 'WebApi2BookDb' on computer 'HIBACL72448' by user'LPandey.
+12/6/2019 12:31:12 PM	Started importing file: C:\Users\lpandey\AppData\Local\Temp\tmp6AA3.tmp 
+12/6/2019 12:31:12 PM	File name C:\Users\lpandey\AppData\Local\Temp\tmp6AA3.tmp (size: 20574)
+12/6/2019 12:31:12 PM	Parsing import script
+12/6/2019 12:31:13 PM	Total number of batches in script: 24
+12/6/2019 12:31:13 PM	Total number of statements in script: 22
+12/6/2019 12:31:13 PM	The script was successfully imported into the project.
+12/6/2019 12:31:13 PM	Analyzing schema objects...
+12/6/2019 12:31:13 PM	Scanning project for duplicate elements
+12/6/2019 12:31:13 PM	Finished duplicate element processing
+12/6/2019 12:31:13 PM	In the script that you provided to the import operation, one or more statements were not fully understood. These statements were moved to the ScriptsIgnoredOnImport.sql file. Review the file contents for additional information.
+12/6/2019 12:31:13 PM	A summary of the import was saved to the following location: D:\APersonal\WebAPI2\Chapter4\WebApi2Book\src\WebApi2BookDb\Import Script Logs\CheckExistingFirmwar_20191206070112.log
+12/6/2019 12:31:13 PM	Click Finish to continue...
